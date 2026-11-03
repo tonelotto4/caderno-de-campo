@@ -1,4 +1,4 @@
-/* Service worker do PELD Coleta: guarda o app no aparelho para abrir sem sinal.
+/* Service worker do PELD Coleta guarda o app no aparelho para abrir sem sinal.
    Estratégia: abre na hora a cópia guardada e atualiza em segundo plano
    (uma versão nova passa a valer na SEGUNDA vez que o app for aberto com internet). */
 const CACHE = "peld-coleta-v2-3";
