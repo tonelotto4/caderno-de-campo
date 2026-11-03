@@ -1,7 +1,7 @@
 /* Service worker do PELD Coleta: guarda o app no aparelho para abrir sem sinal.
    Estratégia: abre na hora a cópia guardada e atualiza em segundo plano
    (uma versão nova passa a valer na SEGUNDA vez que o app for aberto com internet). */
-const CACHE = "peld-coleta-v2-3";
+const CACHE = "peld-coleta-v2-4";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-512-maskable.png"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES)).then(() => self.skipWaiting()));
