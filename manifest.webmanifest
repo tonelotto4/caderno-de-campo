@@ -1,7 +1,7 @@
 {
-  "name": "PELD Iguaçu · Coleta de árvores",
+  "name": "Coleta UNOP - PELD Iguaçu",
   "short_name": "PELD Coleta",
-  "description": "Coleta de dados de árvores em campo (PELD Iguaçu)",
+  "description": "Coleta de dados em campo (PELD Iguaçu)",
   "lang": "pt-BR",
   "start_url": "./index.html",
   "scope": "./",
