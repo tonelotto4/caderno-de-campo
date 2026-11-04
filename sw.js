@@ -1,6 +1,6 @@
 /* PELD Coleta · service worker: guarda o app no aparelho para abrir sem internet.
    Para forçar a atualização em todos os aparelhos, troque o número da versão abaixo. */
-const CACHE = "peld-coleta-v2-4.1";
+const CACHE = "peld-coleta-v2-4.0";
 const ESSENCIAL = ["./index.html"];                       // sem isto o app não funciona offline
 const EXTRAS = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-512-maskable.png"];
 
