@@ -1,6 +1,6 @@
 {
-  "name": "PELD Iguaçu · Coleta de árvores",
-  "short_name": "PELD Coleta",
+  "name": "UNOP Coletas - PELD Iguaçu",
+  "short_name": "UNOP Coletas",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
