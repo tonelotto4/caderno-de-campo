@@ -1,5 +1,25 @@
-git pull
-# edite o arquivo LICENSE no seu editor
-git add LICENSE
-git commit -m "Change license to proprietary"
-git push
+Copyright (c) 2026 Marco Aurélio Tonelotto. Todos os direitos reservados.
+
+PERMISSÕES
+É concedida a qualquer pessoa uma licença limitada, não exclusiva,
+intransferível e revogável para executar e usar este software para
+[uso pessoal / uso interno / qualquer finalidade], sem custo.
+
+PROIBIÇÕES
+Sem autorização prévia e expressa, por escrito, do autor, é proibido:
+1. copiar, reproduzir ou redistribuir o software ou seu código-fonte,
+   no todo ou em parte, exceto a cópia estritamente necessária para
+   executá-lo;
+2. vender, alugar, sublicenciar ou de qualquer forma comercializar o
+   software ou seu código-fonte;
+3. modificar o software ou criar obras derivadas;
+4. publicar o código-fonte, no todo ou em parte, em outro repositório
+   ou meio.
+
+Esta licença pode ser revogada pelo autor a qualquer momento em caso de
+violação de seus termos. Todos os direitos não expressamente concedidos
+são reservados.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE
+QUALQUER TIPO. EM NENHUMA HIPÓTESE O AUTOR SERÁ RESPONSÁVEL POR DANOS
+DECORRENTES DO USO DO SOFTWARE.
